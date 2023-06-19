@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # barter_it
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# barter_it
+>>>>>>> 55a7caa895ba92a3c7565ab70837d00dcba44240
